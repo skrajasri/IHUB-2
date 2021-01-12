@@ -1,0 +1,18 @@
+09 January 2021 - 12:44:47 ==> Error : Success in organization delete method
+09 January 2021 - 12:44:48 ==> Error : System.InvalidOperationException: The property 'TblOrganization.OrganizationName' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key, first delete the dependent and invoke 'SaveChanges', and then associate the dependent with the new principal.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetPropertyModified(IProperty property, Boolean changeState, Boolean isModified, Boolean isConceptualNull, Boolean acceptChanges)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.ChangeDetector.<LocalDetectChanges>g__SetPropertyModified|12_0(<>c__DisplayClass12_0& , <>c__DisplayClass12_1& , <>c__DisplayClass12_2& )
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.ChangeDetector.LocalDetectChanges(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.ChangeDetector.DetectChanges(IStateManager stateManager)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.DetectChanges()
+   at Microsoft.EntityFrameworkCore.DbContext.TryDetectChanges()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at HRMS_v2.BussinessLogic.Organization.delete_organization_details(Int32 organization_Id) in D:\IntraHubNewStructure\Intra-HUB\Web API\HRMS v2\BussinessLogic\Organization.cs:line 59
+   at HRMS.Controllers.OrganizationController.delete(API0003_InModel input) in D:\IntraHubNewStructure\Intra-HUB\Web API\HRMS v2\Controllers\OrganizationController.cs:line 110
+09 January 2021 - 13:16:51 ==> Information : Success in organization delete method.
+09 January 2021 - 13:20:18 ==> Information : Success in organization delete method.
+09 January 2021 - 13:20:34 ==> Information : Success in organization validation method
+09 January 2021 - 13:21:34 ==> Information : Success in organization validation method
+09 January 2021 - 13:21:45 ==> Information : Success in organization validation method
+09 January 2021 - 13:25:45 ==> Information : Success in organization validation method

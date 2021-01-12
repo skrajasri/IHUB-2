@@ -1,0 +1,20 @@
+06 January 2021 - 14:15:06 ==> Error : Success
+06 January 2021 - 14:54:51 ==> Error : Success
+06 January 2021 - 14:55:50 ==> Error : Success
+06 January 2021 - 15:20:48 ==> Error : Success
+06 January 2021 - 15:20:54 ==> Error : boseramaa@gmail.com:535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials g16sm1146056pfh.187 - gsmtp
+06 January 2021 - 15:21:58 ==> Error : Success
+06 January 2021 - 15:22:04 ==> Error : boseramaa@gmail.com:535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials q15sm1141992pgk.11 - gsmtp
+06 January 2021 - 15:23:33 ==> Error : Success
+06 January 2021 - 15:23:40 ==> Error : boseramaa@gmail.com:535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials a26sm1236003pgd.64 - gsmtp
+06 January 2021 - 15:24:17 ==> Error : Success
+06 January 2021 - 15:24:22 ==> Information : boseramaa@gmail.com:Mail Send Success
+06 January 2021 - 15:39:25 ==> Error : Success
+06 January 2021 - 15:39:29 ==> Error : boseramaa@gmail.com : 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials k3sm1285751pgm.94 - gsmtp
+06 January 2021 - 16:33:09 ==> Error : Success
+06 January 2021 - 16:33:15 ==> Error : boseramaa@gmail.com : 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials gb9sm1257598pjb.40 - gsmtp
